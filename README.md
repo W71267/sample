@@ -7,6 +7,6 @@
   </head>
   <body>
     <h1 class="title">3d浸水ハザードマップ</h1>
-    <p><a href="pdf/test.pdf" download="sample.pdf">PDFファイルをダウンロード</a></p>
+    <p><a href="酒匂川の３Dハザードマップ.kmz" download="sample.pdf">kmzファイルをダウンロード</a></p>
   </body>
 </html>
