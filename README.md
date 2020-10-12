@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="stylesheet.css">
   </head>
   <body>
-    <h1 class="title">kml保存用html</h1>
+    <h1 class="title">3d浸水ハザードマップ</h1>
+    <p><a href="pdf/test.pdf" download="sample.pdf">PDFファイルをダウンロード</a></p>
   </body>
 </html>
